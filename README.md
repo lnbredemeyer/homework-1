@@ -23,4 +23,6 @@ WHEN I view the heading attributes
 THEY fall in sequential order
 WHEN I view the title element
 I find a concise, descriptive title
+
+To view the new website, please click https://lnbredemeyer.github.io/homework-1/
 ```
