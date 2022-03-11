@@ -25,7 +25,7 @@ WHEN I view the title element
 I find a concise, descriptive title
 
 Screenshot:
-https://user-images.githubusercontent.com/99215212/157576612-94df5ed2-f5d6-44c0-a2ad-abd0d2502c21.png
+https://user-images.githubusercontent.com/99215212/157803765-bfe9157b-3c7c-4df7-a1b1-71a9b3f2ab83.png
 
 To view the new website, please click https://lnbredemeyer.github.io/homework-1/
 ```
