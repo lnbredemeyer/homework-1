@@ -12,20 +12,20 @@ Provide a short description explaining the what, why, and how of your project. U
 
 ## Usage
 
-I am providing a webpage meets accessibility standards
-WHEN I view the source code
-I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the icon and image elements
-I find accessible alt attributes
-WHEN I view the heading attributes
-THEY fall in sequential order
-WHEN I view the title element
-I find a concise, descriptive title
+* I am providing a webpage meets accessibility standards
+* WHEN I view the source code
+* I find semantic HTML elements
+* WHEN I view the structure of the HTML elements
+* I find that the elements follow a logical structure independent of styling and positioning
+* WHEN I view the icon and image elements
+* I find accessible alt attributes
+* WHEN I view the heading attributes
+* THEY fall in sequential order
+* WHEN I view the title element
+* I find a concise, descriptive title
 
 Screenshot:
-https://user-images.githubusercontent.com/99215212/157803765-bfe9157b-3c7c-4df7-a1b1-71a9b3f2ab83.png
+![image] https://user-images.githubusercontent.com/99215212/157803765-bfe9157b-3c7c-4df7-a1b1-71a9b3f2ab83.png
 
 To view the new website, please click https://lnbredemeyer.github.io/homework-1/
 ```
